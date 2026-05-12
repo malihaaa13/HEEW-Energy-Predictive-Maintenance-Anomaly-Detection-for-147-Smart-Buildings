@@ -42,4 +42,4 @@ To ensure high-quality model training, the raw data underwent a rigorous cleanin
   - **Performance:** 18.20% Error Rate.
   - **Observation:** This cluster represents high-thermal-mass systems. They are more stable than Cluster 1 but less predictable than Cluster 0 because they are Weather Dependent.
   - **Anomalies (659 detected):** Since this includes the community-level CN03 meter, these anomalies are the highest priority. The "jittery" nature of the actual data compared to the smooth model prediction indicates mechanical hunting (equipment struggling to find a steady state).
-  - **Recommended action:** Mechanical Audit for cycling issues.\*
+  - **Recommended action:** Mechanical Audit for cycling issues.
